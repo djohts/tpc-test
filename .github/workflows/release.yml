@@ -19,8 +19,7 @@ jobs:
           goarch: amd64
           goversion: 1.22.3
           ldflags: -s
-          binary_name: tpc.exe
-          asset_name: tpc.exe
+          asset_name: tpc
           compress_assets: OFF
           md5sum: true
           sha256sum: true
